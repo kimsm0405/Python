@@ -28,22 +28,24 @@
 📁 Python Homework
 : 파이썬을 공부하며 진행한 과제 모음
 
-dict 내장함수 설명과 예시_김성민.ipynb
+  📂 250416
 
-list 내장함수 설명과 예시_김성민.ipynb
+  dict 내장함수 설명과 예시_김성민.ipynb
 
-random 모듈 설명과 예시_김성민.ipynb
+  list 내장함수 설명과 예시_김성민.ipynb
 
-set 내장함수 설명과 예시_김성민.ipynb
+  random 모듈 설명과 예시_김성민.ipynb
 
-tuple 내장함수 설명과 예시_김성민.ipynb
+  set 내장함수 설명과 예시_김성민.ipynb
 
-김성민_볼링게임평균구하기.ipynb
+  tuple 내장함수 설명과 예시_김성민.ipynb
 
-김성민_평균평점구하기.ipynb
+  김성민_볼링게임평균구하기.ipynb
 
-볼링게임점수프로그램_김성민.ipynb
+  김성민_평균평점구하기.ipynb
 
-성적처리함수_김성민.ipynb
+  볼링게임점수프로그램_김성민.ipynb
+
+  성적처리함수_김성민.ipynb
 
 
